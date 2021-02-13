@@ -1,4 +1,6 @@
-### Hello My Name UngSeok Choi I'm Interested in Back-End Development. Thank You 👋
+<p align="center">
+<h2 align="center" style="font-weight: bold;"> I'm Interested in Back-End Development. Thank You 👋 </h2>
+</p>
 
 <h3 align="center"> :bulb: Tech Stack  </h3>
 <p align="center">
