@@ -2,6 +2,10 @@
 <h2 align="center" style="font-weight: bold;"> I'm Interested in Back-End Development. Thank You 👋 </h2>
 </p>
 
+<p align="center">
+<h3 align="center" style="font-weight: bold;"> [FEED_NEWS](https://github.com/ungseokchoi/feed) :point_left: </h3>
+</p>
+
 <h3 align="center"> :bulb: Tech Stack  </h3>
 <p align="center">
   <!-- <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp -->
