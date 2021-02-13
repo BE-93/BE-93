@@ -1,4 +1,4 @@
-### Hello My Name  👋
+### Hello My Name UngSeok Choi I'm Interested in Back-End Development. Thank You 👋
 
 <h3 align="center"> :bulb: Tech Stack  </h3>
 <p align="center">
@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center"> :mailbox_with_mail: Contacts </h3>
