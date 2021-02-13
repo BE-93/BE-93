@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<h3 align="center" style="font-weight: bold;"> #[FEED_NEWS](https://github.com/ungseokchoi/feed) :point_left: </h3>
+<h3 align="center" style="font-weight: bold;"> :newspaper: FEED_NEWS(https://github.com/ungseokchoi/feed) :point_left: </h3>
 </p>
 
 <h3 align="center"> :bulb: Tech Stack  </h3>
