@@ -16,4 +16,5 @@
 
 <p align="center">
   <a href="mailto:cus4703@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cus4703@gmail.com"/></a>
+  <a href="https://cus4703.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=cus4703.medium.com/"/></a>
 </p>
