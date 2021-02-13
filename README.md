@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcus4703&count_bg=%2379C83D&title_bg=%232DA49F&icon=googlecardboard.svg&icon_color=%23D9D9D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hello My Name  👋
 
 <p align="center">
@@ -13,12 +12,11 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
-
 <p align="center">
   <a href="mailto:cus4703@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cus4703@gmail.com"/></a>
   <a href="https://cus4703.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=cus4703.medium.com/"/></a>
 </p>
 
 <p align="center">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcus4703&count_bg=%2379C83D&title_bg=%232DA49F&icon=googlecardboard.svg&icon_color=%23D9D9D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/cus4703&count_bg=%2379C83D&title_bg=%2386757E&icon=github.svg&icon_color=%23D9D9D9&title=hits&edge_flat=false"/></a>
 </p>
