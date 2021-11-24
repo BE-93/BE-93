@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center" style="font-weight: bold;"> I'm Interested in Back-End Development. Thank You 👋 </h2>
+<h2 align="center" style="font-weight: bold;"> Thank You For Visiting 👋 </h2>
 </p>
 
 <p align="center">
