@@ -1,6 +1,6 @@
 ### **Thank You For Visiting 👋**
 
-### :newspaper: NEWS_FEED(https://github.com/ungseokchoi/feed) :point_left:
+### :newspaper: TIL (https://github.com/ungseokchoi/feed) :point_left:
 
 ![ungseok GitHub stats](https://github-readme-stats.vercel.app/api?username=ungseokchoi&show_icons=true&theme=dark)
 
