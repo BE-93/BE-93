@@ -1,7 +1,5 @@
 ### **Thank You For Visiting 👋**
 
-### :newspaper: TIL (https://github.com/ungseokchoi/TIL) :point_left:
-
 ![ungseok GitHub stats](https://github-readme-stats.vercel.app/api?username=ungseokchoi&show_icons=true&theme=dark)
 
 ### :hash: 제가 생각하는 이상적인 개발자 방향입니다.
