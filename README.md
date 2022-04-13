@@ -2,7 +2,7 @@
 
 ![ungseok GitHub stats](https://github-readme-stats.vercel.app/api?username=ungseokchoi&show_icons=true&theme=dark)
 
-### :hash: 제가 생각하는 이상적인 개발자 방향입니다.
+### :hash: 개발자로써 추구하고 노력할 방향입니다.
 - 영원히 개발자를 할 것 처럼 생각하고 행동하자.
 - 1년을 바라보고 코드를 작성하지 않고 10년을 바라보는 코드를 작성하자.
 - 한번을 하더라도 확실하게 하자.
