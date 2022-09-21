@@ -2,10 +2,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=be-93&show_icons=true&theme=dark)
 
-### :hash: 개발자로써 추구하고 노력할 방향입니다.
-- 영원히 개발자를 할 것 처럼 생각하고 행동하자.
-- 1년을 바라보고 코드를 작성하지 않고 10년을 바라보는 코드를 작성하자.
-- 한번을 하더라도 확실하게 하자.
+### :hash: 이렇게만 하자.
+- 결과보단 원리를 얻자.
+- 지속 가능한 코드를 만들자.
+- 무엇이든 한번에 얻을 수 없다.
 - 나태보단 노력:fire:
 
 ### :bulb: Tech Stack
